@@ -2,6 +2,27 @@
 #include <string>
 using namespace std;
 
+ 
+/*
+    Abstraction: The concept of hiding details and showing only essential features.
+            Goal is to reduce complexity and increase focus on what an object does, 
+            rather than how it does it. 
+
+    Polymorphism: The ability of a single object, function or method to take multiple forms. 
+            Goal is to allow flexibility and reuse of methods
+
+    Inheritance: One child class derives its properties and behaviors from another class (parent)
+            Goal is to promote code reuse and establish a parent-child relationship
+
+    Encapsulation: To protect some data of an object and provide controlled access through public methods
+            (getters and setters)
+
+    Class and Object: A blueprint or template for creating objects. It defines the properties and methods of object
+    
+*/
+
+
+
 //Abstraction used
 class Rides {
 
