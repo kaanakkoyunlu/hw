@@ -18,6 +18,8 @@ using namespace std;
             (getters and setters)
 
     Class and Object: A blueprint or template for creating objects. It defines the properties and methods of object
+
+    Virtual keyword: it ensures that the appropriate function in the derived class is called when using base class references or pointers.
     
 */
 
